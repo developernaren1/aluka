@@ -1,0 +1,63 @@
+
+.s1{
+    color: white;
+    background-color: rgb(23, 105, 149);
+    font-size: 15px;
+    
+    text-align: right;
+    height: 40px;
+    padding-right: 300px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bt{
+    color: white;
+    background-color: rgb(23, 105, 149);
+    border-radius: 10px;
+    padding: 10px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid;
+}
+.s3{
+    height: 100px;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+    color: white;
+    background-color:rgb(23, 105, 149) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.s2{
+    height: 400px;
+    width: 100%;  
+    background-color:  rgb(41, 146, 202);
+    background-image: url(/aluka-factory-1.jpg);
+}
+.D2{
+    font-size: 30px;
+    color: rgb(23, 23, 95);
+    font-weight: 500;
+    padding-left: 30%;
+    padding-right: 30%;
+    padding-top: 3%;
+    text-align: center;
+}
+.b1{
+    background-color: rgb(4, 8, 76);
+    font-size: 20px;
+    padding: 5px 10px;
+    color: white;
+}
+.b2{
+    background-color: rgb(4, 8, 76);
+    font-size: 20px;
+    padding: 5px 10px;
+    color: white;
+}
+.b3{
+    background-color: rgb(4, 8, 76);
+    font-size: 20px;
+    padding: 5px 10px;
+    color: white;
+}
